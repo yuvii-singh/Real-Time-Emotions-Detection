@@ -1,3 +1,7 @@
+// Basically, its not mandatory to write this code , why i write because its used to check either my camera is working properly or not ?
+
+
+
 import cv2
 
 cap = cv2.VideoCapture(0)
